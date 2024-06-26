@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\api-architecture\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|solutionrelative:api-architecture\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\api-architecture\\controllers\\admin\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|solutionrelative:api-architecture\\controllers\\admin\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\dtos\\admin\\countries\\countrycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\countries\\countrycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\dtos\\admin\\countries\\countryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\countries\\countryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\service\\dtos\\admin\\cities\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\cities\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\service\\dtos\\admin\\cities\\citycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\cities\\citycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\service\\dtos\\admin\\cities\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\cities\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\service\\dtos\\admin\\countries\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D57295-E500-401D-8D0E-AB8B7388BEFD}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\countries\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240626123831_CreatedCityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20240626123831_CreatedCityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\domain\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\githuba qoyulanlar\\asp.core-api\\api-architecture\\api-architecture\\domain\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\domain\\configurations\\baseconfigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\configurations\\baseconfigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RASHAD8088_SQLEXPRESS/APIArchitectureDB/True/SqlTable/dbo.Countries.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\api-architecture\\controllers\\admin\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|solutionrelative:api-architecture\\controllers\\admin\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\api-architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|solutionrelative:api-architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C7A0BEC-C0F1-4242-A60F-B042A0C04209}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\api-architecture\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF3F2C5-3E1A-4C27-8C0A-31D1AEB19A13}|API-Architecture\\API-Architecture.csproj|solutionrelative:api-architecture\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240624211604_CreatedCountryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80D091-ED59-432C-B246-A75C1BAE83D3}|Repository\\Repository.csproj|solutionrelative:Repository\\Migrations\\20240624211604_CreatedCountryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\CityService.cs",
+              "RelativeToolTip": "Service\\Services\\CityService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:52:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:50:33.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\CityController.cs",
+              "RelativeDocumentMoniker": "API-Architecture\\Controllers\\Admin\\CityController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\CityController.cs",
+              "RelativeToolTip": "API-Architecture\\Controllers\\Admin\\CityController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:03:41.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:54:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:53:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:04:28.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "Domain\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:48:07.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Entities\\City.cs",
+              "RelativeToolTip": "Domain\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:32:07.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:39:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CityRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:40:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\CountryController.cs",
+              "RelativeDocumentMoniker": "API-Architecture\\Controllers\\Admin\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\CountryController.cs",
+              "RelativeToolTip": "API-Architecture\\Controllers\\Admin\\CountryController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:34:45.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "Repository\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:55:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:05:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:07:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "Service\\Services\\CountryService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:17:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Countries\\CountryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryCreateDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Countries\\CountryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CountryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Countries\\CountryEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryEditDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Countries\\CountryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:42:49.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CityCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Cities\\CityCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:42:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Cities\\CityDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Cities\\CityDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Cities\\CityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:42:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Countries\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Service\\DTOs\\Admin\\Countries\\CountryDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Admin\\Countries\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:22.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240626123831_CreatedCityTable.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240626123831_CreatedCityTable.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240626123831_CreatedCityTable.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240626123831_CreatedCityTable.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240626123831_CreatedCityTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:38:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\CityConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\CityConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:35:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:53:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:54:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\CountryConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configurations\\CountryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:50:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseConfigation.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\BaseConfigation.cs",
+              "RelativeDocumentMoniker": "Domain\\Configurations\\BaseConfigation.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Configurations\\BaseConfigation.cs",
+              "RelativeToolTip": "Domain\\Configurations\\BaseConfigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:49:40.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:25.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Countries [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/RASHAD8088_SQLEXPRESS/APIArchitectureDB/True/SqlTable/dbo.Countries.sql",
+              "ToolTip": "dbo.Countries [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T21:41:06.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\BaseController.cs",
+              "RelativeDocumentMoniker": "API-Architecture\\Controllers\\Admin\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Controllers\\Admin\\BaseController.cs",
+              "RelativeToolTip": "API-Architecture\\Controllers\\Admin\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:28:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:47:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240624211604_CreatedCountryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240624211604_CreatedCountryTable.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240624211604_CreatedCountryTable.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Repository\\Migrations\\20240624211604_CreatedCountryTable.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240624211604_CreatedCountryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:16:04.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Program.cs",
+              "RelativeDocumentMoniker": "API-Architecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\Program.cs",
+              "RelativeToolTip": "API-Architecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:43:07.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T20:46:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API-Architecture\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Githuba qoyulanlar\\ASP.CORE-API\\API-Architecture\\API-Architecture\\API-Architecture\\appsettings.Development.json",
+              "RelativeToolTip": "API-Architecture\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:42:24.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

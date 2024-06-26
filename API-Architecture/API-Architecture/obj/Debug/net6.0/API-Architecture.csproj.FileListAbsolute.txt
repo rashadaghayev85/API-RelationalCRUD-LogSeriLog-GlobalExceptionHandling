@@ -1,0 +1,167 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\appsettings.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Domain.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Repository.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Service.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Service.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\bin\Debug\net6.0\Repository.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.csproj.AssemblyReference.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.API-Architecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.build.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\scopedcss\bundle\API-Architecture.styles.css
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Arch.F8FEBB93.Up2Date
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\refint\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\API-Architecture\API-Architecture\obj\Debug\net6.0\ref\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.csproj.AssemblyReference.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.sourcelink.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\refint\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\appsettings.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\API-Architecture.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Domain.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Repository.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Service.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Service.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Repository.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.API-Architecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.build.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API-Architecture.props
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\scopedcss\bundle\API-Architecture.styles.css
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Arch.F8FEBB93.Up2Date
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\API-Architecture.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\obj\Debug\net6.0\ref\API-Architecture.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Githuba qoyulanlar\ASP.CORE-API\API-Architecture\API-Architecture\API-Architecture\bin\Debug\net6.0\Serilog.Sinks.File.dll
